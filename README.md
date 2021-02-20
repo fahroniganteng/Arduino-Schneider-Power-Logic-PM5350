@@ -3,7 +3,7 @@
 Share a project to record the Schneider-Power-Logic-PM5350 data to database (MySql).
 
 ## Video
-All video on indonesian language.
+All video in indonesian language.
 #### Video 01 : Communication and wiring
 [![VIDEO01](http://img.youtube.com/vi/SQy2AJfB5v8/0.jpg)](https://youtu.be/SQy2AJfB5v8)
 > code in video01 can be found in folder code_arduino_video01 
