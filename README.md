@@ -12,7 +12,7 @@ All video on indonesian language.
 [![VIDEO01](http://img.youtube.com/vi/AGjSCudvQ30/0.jpg)](https://youtu.be/AGjSCudvQ30)
 
 #### Video 03 : Installation guide
-[![VIDEO01](http://img.youtube.com/vi/yJJ7BVtf-0/0.jpg)](https://youtu.be/yJJ7BVtf-0)
+[![VIDEO01](http://img.youtube.com/vi/jyJJ7BVtf-0/0.jpg)](https://youtu.be/jyJJ7BVtf-0)
 
 ## Hardware required
 - Schneider-Power-Logic-PM5350
@@ -27,7 +27,7 @@ All video on indonesian language.
 > Check video 01 for detail   
 
 ## Wiring
-image (upload soon)  
+![wiring](wiring.png)
 >  Check video 01 & 02 for detail   
 
 
