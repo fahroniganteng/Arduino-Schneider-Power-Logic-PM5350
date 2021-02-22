@@ -13,7 +13,7 @@
 // FOR DEBUGING ONLY
 // ```````````````````````
 // NOTE : Pins 0 and 1 also used for modbus communication ==> enable (DEBUG) only when needed
-#define DEBUG 0
+#define DEBUG 0 // set 1 to enable debuging
 #if DEBUG
   #define PRINT(s)    { Serial.print(s); }
   #define PRINTLN(s)  { Serial.println(s); }
