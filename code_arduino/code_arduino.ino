@@ -31,6 +31,8 @@
 #include "ronnModbus.h"
 #include "ronnEthernet.h"
 
+unsigned long timer;
+
 void setup(){
   modbusInit();
   ethernetInit();
@@ -39,11 +41,10 @@ void setup(){
 
 void loop(){
   connection_status = modbus_update(packets);
-  
   // Send every 5000ms
-  if(millis() % 5000 == 0){
+  if(millis() - timer > 5000 || timer > millis()){
+    timer = millis();
     modbusData();   // update data modbus convert to float
     sendToServer(); // send to server over HTTP request (POST)
   }
-  
 }
