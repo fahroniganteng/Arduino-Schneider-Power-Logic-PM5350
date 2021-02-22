@@ -42,7 +42,7 @@ void setup(){
 void loop(){
   connection_status = modbus_update(packets);
   // Send every 5000ms
-  if(millis() - timer > 5000 || timer > millis()){
+  if(millis() - timer >= 5000 || timer > millis()){
     timer = millis();
     modbusData();   // update data modbus convert to float
     sendToServer(); // send to server over HTTP request (POST)
