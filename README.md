@@ -37,3 +37,8 @@ My code under MIT license, other libraries follow their own license.
 - jQuery.js https://jquery.org/license/
 - Bootstrap https://getbootstrap.com/
 - etc...
+
+## Donation  
+Support me  
+- [Send me coffee](https://sociabuzz.com/fahroniganteng/tribe)
+- [or maybe ice cream](https://trakteer.id/fahroniganteng/tip) 
