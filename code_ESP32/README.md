@@ -1,4 +1,4 @@
-# ESP21o-Schneider-Power-Logic-PM5350
+# ESP32-Schneider-Power-Logic-PM5350
 Menampilkan Kwh schneider power logic PM5350 ke web via wifi dengan ESP32 - modbus RTU - RS485
 
 ## Video
