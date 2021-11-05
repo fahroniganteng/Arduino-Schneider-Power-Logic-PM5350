@@ -14,6 +14,9 @@ All video in indonesian language.
 #### Video 03 : Installation guide
 [![VIDEO01](http://img.youtube.com/vi/jyJJ7BVtf-0/0.jpg)](https://youtu.be/jyJJ7BVtf-0)
 
+#### Video 04 : Menampilkan pembacaan PM5350 ke web via wifi dengan ESP32 
+[![VIDEO01](http://img.youtube.com/vi/93auUo5aZIw/0.jpg)](https://youtu.be/93auUo5aZIw)
+
 ## Hardware required
 - Schneider-Power-Logic-PM5350
 - Server (PHP & MySQL)
