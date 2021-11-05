@@ -5,7 +5,7 @@ Menampilkan Kwh schneider power logic PM5350 ke web via wifi dengan ESP32 - modb
 [![VIDEO01](http://img.youtube.com/vi/93auUo5aZIw/0.jpg)](https://youtu.be/93auUo5aZIw)
 
 ## wiring
-![wiring](code_ESP32/Wiring.png)
+![wiring](Wiring.png)
 
 ## Lisensi
 Kode saya gratis dibawah lisensi MIT, untuk library pendukung lain mengikuti linsensi masing-masing.
